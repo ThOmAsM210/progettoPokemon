@@ -1,0 +1,67 @@
+{
+    "Pikachu": {
+      "5": [
+        {
+          "nextForm": "Raichu",
+          "level": 5,
+          "attack": 50,
+          "defense": 30,
+          "speed": 80,
+          "hp": 40,
+          "exp": 500,
+          "expToNextLevel": 1000
+        }
+      ],
+      "10": [
+        {
+          "nextForm": "Raichu",
+          "level": 10,
+          "attack": 60,
+          "defense": 40,
+          "speed": 90,
+          "hp": 50,
+          "exp": 1000,
+          "expToNextLevel": 1500
+        }
+      ],
+      "20": [
+        {
+          "nextForm": "Raichu",
+          "level": 20,
+          "attack": 80,
+          "defense": 50,
+          "speed": 100,
+          "hp": 60,
+          "exp": 2000,
+          "expToNextLevel": 2500
+        }
+      ]
+    },
+    "Charmander": {
+      "16": [
+        {
+          "nextForm": "Charmeleon",
+          "level": 16,
+          "attack": 60,
+          "defense": 50,
+          "speed": 65,
+          "hp": 58,
+          "exp": 500,
+          "expToNextLevel": 1000
+        }
+      ],
+      "36": [
+        {
+          "nextForm": "Charizard",
+          "level": 36,
+          "attack": 84,
+          "defense": 78,
+          "speed": 100,
+          "hp": 78,
+          "exp": 1000,
+          "expToNextLevel": 2000
+        }
+      ]
+    }
+  }
+  

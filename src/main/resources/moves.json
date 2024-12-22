@@ -1,0 +1,46 @@
+{
+  "Pikachu": {
+    "5": [
+      {"name": "Thunder Shock", "power": 40, "type": "Electric"},
+      {"name": "Growl", "power": 0, "type": "Normal"}
+    ],
+    "10": [
+      {"name": "Quick Attack", "power": 40, "type": "Normal"}
+    ],
+    "15": [
+      {"name": "Electro Ball", "power": 60, "type": "Electric"}
+    ]
+  },
+  "Charmander": {
+    "5": [
+      {"name": "Scratch", "power": 40, "type": "Normal"},
+      {"name": "Growl", "power": 0, "type": "Normal"}
+    ],
+    "10": [
+      {"name": "Ember", "power": 40, "type": "Fire"}
+    ],
+    "15": []
+  },
+  "Bulbasaur": {
+    "5": [
+      {"name": "Tackle", "power": 40, "type": "Normal"},
+      {"name": "Growl", "power": 0, "type": "Normal"}
+    ],
+    "10": [
+      {"name": "Vine Whip", "power": 45, "type": "Grass"}
+    ],
+    "15": []
+  },
+  "Squirtle": {
+    "5": [
+      {"name": "Tackle", "power": 40, "type": "Normal"},
+      {"name": "Tail Whip", "power": 0, "type": "Normal"}
+    ],
+    "10": [
+      {"name": "Water Gun", "power": 40, "type": "Water"}
+    ],
+    "15": [
+      {"name": "Bubble Beam", "power": 65, "type": "Water"}
+    ]
+  }
+}
